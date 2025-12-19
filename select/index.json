@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "夏枯れ",
+  "base_artist": "ZUTOMAYO",
+  "createdAt": "2025-12-19T09:43:40.238277Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "夏枯れ",
+      "artist": "ZUTOMAYO",
+      "has_synced": true,
+      "path": "select/01_夏枯れ_ZUTOMAYO.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "夏枯れ",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": true,
+      "path": "select/02_夏枯れ_ずっと真夜中でいいのに。.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "夏枯れ - Summer Slack",
+      "artist": "ZUTOMAYO",
+      "has_synced": true,
+      "path": "select/03_夏枯れ_-_Summer_Slack_ZUTOMAYO.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "夏枯れ (Instrumental)",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": true,
+      "path": "select/04_夏枯れ_(Instrumental)_ずっと真夜中でいいのに。.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "夏枯れ",
+      "artist": "ZUTOMAYO",
+      "has_synced": true,
+      "path": "select/05_夏枯れ_ZUTOMAYO.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "夏枯れ",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": true,
+      "path": "select/06_夏枯れ_ずっと真夜中でいいのに。.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "夏枯れ",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": false,
+      "path": "select/pl_01_夏枯れ_ずっと真夜中でいいのに。.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "夏枯れ",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": false,
+      "path": "select/pl_02_夏枯れ_ずっと真夜中でいいのに。.txt"
+    }
+  ]
+}
